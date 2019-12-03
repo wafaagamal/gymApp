@@ -1,0 +1,2 @@
+C:\Users\wafaa\source\repos\gymApp\napp\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\wafaa\source\repos\gymApp\napp\obj\Debug\start.csprojAssemblyReference.cache

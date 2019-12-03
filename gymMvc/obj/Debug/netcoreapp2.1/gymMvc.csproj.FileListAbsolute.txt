@@ -1,0 +1,14 @@
+C:\Users\wafaa\source\repos\gymApp\gymMvc\bin\Debug\netcoreapp2.1\gymMvc.deps.json
+C:\Users\wafaa\source\repos\gymApp\gymMvc\bin\Debug\netcoreapp2.1\gymMvc.runtimeconfig.json
+C:\Users\wafaa\source\repos\gymApp\gymMvc\bin\Debug\netcoreapp2.1\gymMvc.runtimeconfig.dev.json
+C:\Users\wafaa\source\repos\gymApp\gymMvc\bin\Debug\netcoreapp2.1\gymMvc.dll
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.csprojAssemblyReference.cache
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.csproj.CoreCompileInputs.cache
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.RazorAssemblyInfo.cache
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.RazorAssemblyInfo.cs
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.AssemblyInfoInputs.cache
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.AssemblyInfo.cs
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.RazorTargetAssemblyInfo.cache
+C:\Users\wafaa\source\repos\gymApp\gymMvc\bin\Debug\netcoreapp2.1\gymMvc.pdb
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.dll
+C:\Users\wafaa\source\repos\gymApp\gymMvc\obj\Debug\netcoreapp2.1\gymMvc.pdb
